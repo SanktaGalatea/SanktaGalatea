@@ -3,8 +3,6 @@
 > 
 > 𝐰𝐫𝐢𝐭𝐞𝐫, 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐜𝐨𝐝𝐞 -- html, css, and looking to get into compsci.
 > 
-> 𝐧𝐞𝐨𝐜𝐢𝐭𝐢𝐞𝐬 link @ sanktanephis.neocities.org (work in progress)
-> 
 > using this as a repository for my personal works - homework, notes, etc.
 > 
 > i'll make this look better in the future, bear with me for the moment, lol
