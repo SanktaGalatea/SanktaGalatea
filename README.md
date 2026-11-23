@@ -1,5 +1,5 @@
 
-> 𝐧𝐞𝐩𝐡𝐢𝐬 | she/her.
+> 𝐢𝐧𝐠𝐫𝐢D | she/her.
 > 
 > 𝐰𝐫𝐢𝐭𝐞𝐫, 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐜𝐨𝐝𝐞 -- html, css, and looking to get into compsci.
 > 
